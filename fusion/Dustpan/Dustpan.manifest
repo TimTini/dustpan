@@ -1,0 +1,11 @@
+{
+  "autodeskProduct": "Fusion",
+  "type": "script",
+  "author": "",
+  "description": {
+    "": "Native dustpan reconstruction with rounded cavity, eased floor and continuous rim; declared recompute/rebuild routes."
+  },
+  "version": "2.0.0",
+  "supportedOS": "windows|mac",
+  "editEnabled": true
+}

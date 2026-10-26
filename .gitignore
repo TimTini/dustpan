@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+/exports/*
+!/exports/dustpan-reinforced.stl
+!/exports/reinforced-front.png
+!/exports/reinforced-back.png
+!/exports/reinforced-side.png
+!/exports/reinforced-floor-section.png
+!/exports/floor-transition-detail.png
+!/exports/rim-corner-detail.png
+!/exports/preview.png
+# Local-only validation, Fusion runtime evidence, logs, and probes.
+work/
+# The original/reference input is a local prerequisite, not a public artifact.
+reference/
